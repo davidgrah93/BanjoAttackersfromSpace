@@ -1,0 +1,83 @@
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\BanjoGame.csprojResolveAssemblyReference.cache
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Accordian.xnb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PlainBanjo.xnb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\DeadlyStrummer.xnb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\AccordianNote.xnb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HunterBanjo.xnb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpaceBackground.xnb
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BanjoNote.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Accordian.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PlainBanjo.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\DeadlyStrummer.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\AccordianNote.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HunterBanjo.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpaceBackground.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BanjoNote.xnb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\BanjoGame.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+\\data.adir.hull.ac.uk\home4\464\464179\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Accordian.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PlainBanjo.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\DeadlyStrummer.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\AccordianNote.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HunterBanjo.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpaceBackground.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BanjoNote.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont.xnb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\BanjoGame.csprojResolveAssemblyReference.cache
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Accordian.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PlainBanjo.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\DeadlyStrummer.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\AccordianNote.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HunterBanjo.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpaceBackground.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BanjoNote.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont.xnb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\BanjoGame.csprojResolveAssemblyReference.cache
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Accordian.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PlainBanjo.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\DeadlyStrummer.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\AccordianNote.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HunterBanjo.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpaceBackground.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BanjoNote.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont.xnb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\BanjoGame.csprojResolveAssemblyReference.cache
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Accordian.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PlainBanjo.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\DeadlyStrummer.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\AccordianNote.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HunterBanjo.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpaceBackground.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BanjoNote.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont.xnb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\BanjoGame.csprojResolveAssemblyReference.cache
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb

@@ -1,0 +1,5 @@
+C:\Users\David Graham\Documents\David Graham Semester 2\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+G:\David Graham Semester 2\Modules\08120 Programming 2\ACW - Banjo attackers from space\Banjo attackers from space\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+F:\David Graham Semester 2\Modules\08120 programming 2\ACW - Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+F:\Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+F:\C# Examples\Banjo attackers from space\Banjo attackers from space - David Graham\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache

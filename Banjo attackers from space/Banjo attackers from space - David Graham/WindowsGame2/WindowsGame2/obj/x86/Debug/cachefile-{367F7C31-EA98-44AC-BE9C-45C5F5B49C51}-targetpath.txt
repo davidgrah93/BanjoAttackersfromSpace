@@ -1,0 +1,8 @@
+Content\Accordian.xnb
+Content\PlainBanjo.xnb
+Content\DeadlyStrummer.xnb
+Content\AccordianNote.xnb
+Content\HunterBanjo.xnb
+Content\SpaceBackground.xnb
+Content\BanjoNote.xnb
+Content\SpriteFont.xnb
